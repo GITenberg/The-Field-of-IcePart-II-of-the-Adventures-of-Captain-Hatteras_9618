@@ -1,5 +1,8 @@
 _repo: The-Field-of-IcePart-II-of-the-Adventures-of-Captain-Hatteras_9618
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9618#The-Field-of-IcePart-II-of-the-Adventures-of-Captain-Hatteras
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
